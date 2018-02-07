@@ -23,7 +23,7 @@
 * Duckett: 44 layers (Content = htMl, Presentation = .css, Behavior = .js)
 * Duckett: 51 hvordan man linker til et script
 * Browserens værktøjskasse (fx Chrome: F12)
-æioæoijlj
+
 ## 13:00
 
 * Workshop.
